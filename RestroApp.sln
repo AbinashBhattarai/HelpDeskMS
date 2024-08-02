@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestroApp", "RestroApp\RestroApp.csproj", "{110248D6-8F2F-4101-B99E-CEF5093782E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110248D6-8F2F-4101-B99E-CEF5093782E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110248D6-8F2F-4101-B99E-CEF5093782E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110248D6-8F2F-4101-B99E-CEF5093782E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110248D6-8F2F-4101-B99E-CEF5093782E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDAB7A68-B034-4060-8F62-ABB04861907A}
+	EndGlobalSection
+EndGlobal
