@@ -1,4 +1,4 @@
-namespace RestroApp.Models
+namespace HelpDeskMS.Models
 {
     public class ErrorViewModel
     {

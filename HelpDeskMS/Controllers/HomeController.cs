@@ -1,8 +1,8 @@
+using HelpDeskMS.Models;
 using Microsoft.AspNetCore.Mvc;
-using RestroApp.Models;
 using System.Diagnostics;
 
-namespace RestroApp.Controllers
+namespace HelpDeskMS.Controllers
 {
     public class HomeController : Controller
     {
